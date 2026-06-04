@@ -93,6 +93,7 @@ ___
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2387CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Open Code](https://img.shields.io/badge/Open_Code-%233DA639.svg?style=for-the-badge&logo=open-source&logoColor=white)
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### ☁️ Hosting
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
