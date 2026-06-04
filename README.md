@@ -55,16 +55,16 @@ ___
 <tr border="0">
 <td width="50%" align="center">
 	
-[![Anurag's GitHub stats](https://github-readme-stats-steel-mu.vercel.app/api?username=DazaihHollow&include_all_commits=true&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-steel-mu.vercel.app/api?username=MiguelDH137&include_all_commits=true&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
 <br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DazaihHollow&theme=dark&border_radius=5&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguelDH137&theme=dark&border_radius=5&locale=es)](https://git.io/streak-stats)
 
 </td>
 
 <td width="50%" align="center">
 	
-  <a href="https://github.com/DazaihHollow">
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DazaihHollow&layout=compact&langs_count=8&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,000F40"/>
+  <a href="https://github.com/MiguelDH137">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MiguelDH137&layout=compact&langs_count=8&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,000F40"/>
   </a>
 
 </td>
@@ -75,7 +75,7 @@ ___
 
 # Skills
 
-<picture> <img align="right" src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/pusheen.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/MiguelDH137/MiguelDH137/blob/main/images/pusheen.gif" width = 250px></picture>
 
 #### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -107,6 +107,6 @@ ___
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DazaihHollow&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MiguelDH137&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 	
 </details>
