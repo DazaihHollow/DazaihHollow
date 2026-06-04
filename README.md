@@ -1,6 +1,6 @@
 <!-- Banner Responsive -->
 <div align="center">
-  <img src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/banner_1200x500.png" 
+  <img src="https://github.com/MiguelDH137/MiguelDH137/blob/main/images/banner_1200x500.png" 
        width="100%" 
        style="max-width: 1200px; height: auto;"
        alt="Miguel Amaya - Ingeniero En Informatica">
