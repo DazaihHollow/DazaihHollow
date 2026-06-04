@@ -3,7 +3,7 @@
   <img src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/banner_1200x500.png" 
        width="100%" 
        style="max-width: 1200px; height: auto;"
-       alt="Miguel Amaya - Desarrollador Full-Stack">
+       alt="Miguel Amaya - Ingeniero En Informatica">
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 
 <!-- Typing Text Responsive -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japonese&pause=1000&color=C800CA&size=24&width=435&lines=Muy+Buenas+Soy+Miguel+Amaya;Bienvenidos+A+Mi+Perfil;Estudiante+De+Ingenieria+Informatica;Desarrollador+Web+Full-Stack" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japonese&pause=1000&color=C800CA&size=24&width=435&lines=Muy+Buenas+Soy+Miguel+Amaya;Bienvenidos+A+Mi+Perfil;Ingeniero+En+Informatica;" 
        alt="Typing SVG"
        style="max-width: 100%; height: auto;" />
 </div>
@@ -42,9 +42,9 @@ ___
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- Soy un estudiante de Ingeniería en Informática de la universidad Alejandro De Humboldt, con una gran pasión por el desarrollo backend. Actualmente, me estoy formando en la creación de APIs y servicios web, con el objetivo de evolucionar hacia el desarrollo full-stack.
-- Disfruto del proceso de analizar problemas y desarrollar soluciones tecnológicas mediante la práctica y la experimentación. Creo firmemente en el "prueba y error" como parte esencial del aprendizaje y la mejora continua.
-- Considero que el análisis de problemas y el desarrollo de soluciones, es la naturaleza de la programación.
+- Soy Ingeniero en Informática graduado en la universidad Alejandro De Humboldt.
+- Actualmente formandome en el desarrollo Web, con el objetivo de especializarme en el desarrollo full-stack.
+- La escensia de la programacion es el estudio de problemas, el desarorllo de soluciones logicas y la implementacion con medios tecnologicos.
 <br>
 
 ___
@@ -77,23 +77,28 @@ ___
 
 <picture> <img align="right" src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/pusheen.gif" width = 250px></picture>
 
-#### 🔧 Languages
+#### 🖥️ Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-#### 🖥️ Frameworks
-![Static Badge](https://img.shields.io/badge/FastAPI-gren?style=for-the-badge&logo=fastapi&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Django-darckgreen?style=for-the-badge&logo=django&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=blue)
+![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%235555FF.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-%2387CF3E.svg?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Open Code](https://img.shields.io/badge/Open_Code-%233DA639.svg?style=for-the-badge&logo=open-source&logoColor=white)
+![Google Stitch](https://img.shields.io/badge/Google_Stitch-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+### ☁️ Hosting
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ___
 
