@@ -55,7 +55,12 @@ ___
 <tr border="0">
 <td width="50%" align="center">
 	
-[![Anurag's GitHub stats](https://github-readme-stats-steel-mu.vercel.app/api?username=MiguelDH137&include_all_commits=true&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MiguelDH137&theme=github-dark-blue&hide_border=true&border_radius=6&locale=es&short_numbers=false&mode=weekly&background=45,000000,000F40" alt="GitHub Streak" />
+  </a>
+</div>
+
 <br>
 
 </td>
